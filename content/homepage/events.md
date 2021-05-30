@@ -22,7 +22,7 @@ https://goo.gl/maps/auYApWxTurK2
 ---
 
 ### LAN Schedule (Tentative):
-08:00 AM - Doors Open (Setup)  
+08:00 AM - Doors Open (Setup)
 11:00 AM - Super Intense Gaming  
 01:00 PM - Pending  
 02:30 PM - Pending  

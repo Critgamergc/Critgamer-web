@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-![Jane Doe](images/Rob.jpg)
+![](images/Rob.jpg)
 
 Critgamer was originally started in 2009 as a YouTube Channel with an online blog for content creation and sharing. During the preliminary phases of the brand we realized there was demand for a consistent LAN Gaming Community in our local area
 
