@@ -6,7 +6,7 @@ header_menu: true
 
 Due to COVID-19 we are suspending all events until further notice
 Please check back often as we will update you via email and this site for future events
-
+<!---
 ---
 
 ### Location Information:
@@ -40,3 +40,4 @@ Above all have fun! We will have a great time! Profanity is tolerated to an exte
 *By registering for and attending this event you release Critgamer Gaming Community from all liability of property loss or injury. You also understand while participating in this event, you may be photographed. You agree to allow your photo, registration information, video, or film likeness to be used for any legitimate purpose by the activity holders, producers, sponsors, organizers, and assigns. *
 
 **IF ANY QUESTIONS ARE NOT ANSWERED HERE - Contact Us!**
+--->
